@@ -1,54 +1,56 @@
- <h1 align="center">Hi 👋, I'm a developer</h1>
-    <h3 align="center">A passionate frontend developer from India</h3>
-    
-     
-    <h3 align="left">Skills✨</h3>
-    <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-                alt="android" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-            rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-                alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                alt="css3" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a
-            href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-                width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-            target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                alt="javascript" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-                alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                alt="nodejs" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-                alt="photoshop" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"
-            rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
-                width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-                alt="react" width="40" height="40" /> </a> </p>
+<div style="width:90vw;display:flex;justify-content:center; ">
+    <img alt="" style="fill:cover;max-height:300px;" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"></img>
+</div>
 
-                <h3 align="left">Connection 📡</h3>
-                <p align="left">
-                    <a href="https://linkedin.com/in/https://www.linkedin.com/in/swadhin-kumar-muduli-6b4ab7261" target="blank"><img
-                            align="center"
-                            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                            alt="https://www.linkedin.com/in/swadhin-kumar-muduli-6b4ab7261" height="30" width="40" /></a>
-                    <a href="https://instagram.com/https://instagram.com/young_swadhin?igshid=ngexmmi2ytkyzg==" target="blank"><img
-                            align="center"
-                            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                            alt="https://instagram.com/young_swadhin?igshid=ngexmmi2ytkyzg==" height="30" width="40" /></a>
-                </p>
+<br>
+<h1 style="width: 90vw;text-align: center;">Hi Friends 👋</h1>
+
+<div style="width: 90vw; display:flex; justify-content:center;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=100&size=25&height=30&repeat=false&vCenter=true&lines=I+am+a" style="height:auto;text-align:center;"></img>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&vCenter=true&size=25&width=150&height=30&lines=Programmer;Developer;Designer;Audiophile;" style="height:auto;text-align:center;"></img>
+</div>
+<br>
+
+<div style="width:90vw;display:flex;justify-content:center;align-items:center;position:relative;">
+<p style="text-align: center;padding-left: 20px;padding-right: 20px;max-width:700px; font-family: 'Fira Code', monospace; font-weight: 600; font-size:16px">
+I am <span style="font-size:18px">Swadhin Muduli</span>, and I am an accomplished full-stack web
+developer and skilled Flutter developer. With my expertise in both front-end and
+back-end technologies, I possess a comprehensive understanding of building robust
+and user-friendly web applications. However, my talents extend beyond coding. I am
+also a highly creative UI designer, adept at crafting visually stunning interfaces that
+enhance the user experience. My imaginative and innovative thinking allows me to
+approach problem-solving from unique angles, resulting in elegant solutions. I
+continuously strive to stay updated with the latest industry trends and technologies,
+ensuring that my work remains cutting-edge and impactful. With my diverse skill set
+and passion for creating exceptional digital experiences, I am dedicated to
+delivering outstanding results for every project I undertake.
+</p>
+</div>
+<br>
+<h1 style="width: 90vw;text-align: center; letter-spacing:2px">Skills✨</h1>
+
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:27px;">
+    <span style="line-height:70px">Languages</span> 
+    <br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,python,ts,html" /> 
+    <br><br>
+    <span style="line-height:70px">Development</span> 
+    <br>
+    <img src="https://skillicons.dev/icons?i=react,next,nodejs,express,mongodb,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=dynamodb,css,tailwind,flutter" /><br><br> 
+   <span style="line-height:70px">Tools</span> 
+    <br>
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=netlify,postman,stackoverflow,vercel,visualstudio" /><br>
+</p>
+
+<br><br><br><br>
+
+<h1 style="width: 90vw;text-align: center; letter-spacing:2px">Connection 📡</h1>
+<p align="center">
+    <a href="https://github.com/Youngswadhin"><img style="width:80px;aspect-ration:1/1;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-2950150-2447911.png"></img></a>
+    <a href="https://www.linkedin.com/in/swadhin-kumar-muduli-6b4ab7261/"> <img style="width:80px;aspect-ration:1/1;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-2950130-2447889.png"></img></a>
+    <a href="https://www.instagram.com/youngswadhin/"><img style="width:80px;aspect-ration:1/1;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-2950129-2447888.png"></img></a>
+    <a href="https://twitter.com/young_swadhin?s=09"><img style="width:80px;aspect-ration:1/1;" src="https://cdn3d.iconscout.com/3d/free/thumb/free-twitter-4703924-3915176.png?f=webp"></img></a>
+</div>
+</div>
